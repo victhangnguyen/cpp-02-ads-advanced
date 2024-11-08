@@ -7,8 +7,10 @@
       "args": [
         "-fdiagnostics-color=always",
         "-g",
-        "${workspaceFolder}\\libs\\Pair\\*.h",
-        "${workspaceFolder}\\libs\\Pair\\*.cpp",
+        "${workspaceFolder}\\libs\\CH10-TheBigThree\\DArray.h",
+        "${workspaceFolder}\\libs\\CH10-TheBigThree\\DArray.cpp",
+        "${workspaceFolder}\\libs\\Pair\\Pair.h",
+        "${workspaceFolder}\\libs\\Pair\\Pair.cpp",
         "${file}",
         "-o",
         "${fileDirname}\\${fileBasenameNoExtension}.exe"
